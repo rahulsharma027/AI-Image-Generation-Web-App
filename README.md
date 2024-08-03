@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+## VIDEO DEMONSTRATION OF THIS PROJECT IS HERE : 
+# https://www.youtube.com/watch?v=8wSzqgoYiF8
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+THIS A FINAL YEAR PROJECT BY TEAM RAHUL:
 
-## Available Scripts
+Published Paper Link of this Project : [https://www.ijnrd.org/viewpaper.php?paper=IJNRD2403542](http://www.ijnrd.org/papers/IJNRD2403542.pdf)
 
-In the project directory, you can run:
+MEMBERS : i) RAHUL SHARMA (Team Leader)
+         ii) HARSH  JAISWAL
+        iii) NAKUL SINGH JADON
+        
+PROJECT GUIDE :     CHARUL BAPNA,
+                ASSISTANT PROF. PIET
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Technology used:
+i) DALL-E By OpenAI
+ii) Stable Diffusion
+iii) MysticAI API Integration for serverless deployment
+iv) ReactJS modules for front-end and design
+v) Google Firebase for Database
+vi) Flask framework for API calls
+vii) Vercel for Deployment
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+It's a serverless applocation that can simply be deployed on any supported platform, and can also be deployed on traditional AWS and Azure for more scalability and customization. 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Here are some shots of out project:
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![final](https://github.com/user-attachments/assets/5bf02d01-4ca8-4494-b99c-59ccc165ce37)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![final2](https://github.com/user-attachments/assets/d7033939-3ece-4c61-922a-8565b2addfb5)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![contactus](https://github.com/user-attachments/assets/6131503e-2e56-4e9c-9b51-dd1ef6ef2084)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![login](https://github.com/user-attachments/assets/b371825d-e465-47a2-986c-ab2f7051e898)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+Generate Page:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+![generate](https://github.com/user-attachments/assets/7428d83f-fd5e-476f-beb1-942347607adb)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![gen1](https://github.com/user-attachments/assets/77677f82-3841-497e-92a0-1bf0e6b0f9ef)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+![gen2](https://github.com/user-attachments/assets/3ee0c21c-429e-4a98-9489-3b6b6541e5f4)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Community Showcase where users can share their generated images via this application to all users along with prompts they use to generate the image 
+![comm](https://github.com/user-attachments/assets/d32f358d-4398-494f-b88f-d6e36eca753a)
+
+
+
+
+
+
+
+
+Vercel Deployment Link: (Note That: Some Features are unable to update on the vercel free app deployment and MysticAI API calls depends upon its up time, it results in missplaced elements in navbar and issues with google login authentication with google firebase , in college demonstration of our project we have showcase the project in local-host for faster results and have a option to deploy it cloud platform, with all the free resources we try our best to create a good image generation system that is server less, the community page works fine in out website that have some good images for reference)
+
+https://new-final-year.vercel.app/
+
