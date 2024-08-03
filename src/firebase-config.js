@@ -5,12 +5,12 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAGPPcRGDOqThWG1tnzFIi4FM0FnGOkPRM",
+  apiKey: "API-KEY",
   authDomain: "ai-img-gen-308bb.firebaseapp.com",
   projectId: "ai-img-gen-308bb",
   storageBucket: "ai-img-gen-308bb.appspot.com",
   messagingSenderId: "1070288353934",
-  appId: "1:1070288353934:web:7252305935caa7b21c27df",
+  appId: "APP-ID",
   measurementId: "G-W44JLH4SWW",
 };
 
