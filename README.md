@@ -1,6 +1,9 @@
 ## VIDEO DEMONSTRATION OF THIS PROJECT IS HERE : 
 # https://www.youtube.com/watch?v=8wSzqgoYiF8
 
+## Azure Deployment Link: https://rahul-ai-image-web-application-amdshzewf6cchwf7.southindia-01.azurewebsites.net/welcome 
+# (API CALL ARE DISABLED DUE TO MYSTIC-AI PAYMENT POLICIES IN AUGUST 2024) Please for Demo Consider watching above video
+
 THIS A FINAL YEAR PROJECT BY TEAM RAHUL:
 
 Published Paper Link of this Project : [https://www.ijnrd.org/viewpaper.php?paper=IJNRD2403542](http://www.ijnrd.org/papers/IJNRD2403542.pdf)
