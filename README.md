@@ -1,11 +1,6 @@
 ## VIDEO DEMONSTRATION OF THIS PROJECT IS HERE : 
 # https://www.youtube.com/watch?v=8wSzqgoYiF8
 
-## Azure Deployment Link: https://rahul-ai-image-web-application-amdshzewf6cchwf7.southindia-01.azurewebsites.net/welcome 
-# (API CALL ARE DISABLED DUE TO MYSTIC-AI PAYMENT POLICIES IN AUGUST 2024) Please for Demo Consider watching above video
-# MODEL USED HERE IS THIS ONE : https://www.mystic.ai/stabilityai/stable-diffusion/play
-
-## Vercel Deployment Link : https://new-final-year.vercel.app/
 THIS A FINAL YEAR PROJECT BY TEAM RAHUL:
 
 Published Paper Link of this Project : [https://www.ijnrd.org/viewpaper.php?paper=IJNRD2403542](http://www.ijnrd.org/papers/IJNRD2403542.pdf)
@@ -34,38 +29,38 @@ Here are some shots of out project:
 
 
 
-![final](https://github.com/user-attachments/assets/5bf02d01-4ca8-4494-b99c-59ccc165ce37)
+![final](https://drive.google.com/uc?id=1m_T_McvIZtD1Ub2fA33WrM_V7n0JhtV8)
 
 
 
-![final2](https://github.com/user-attachments/assets/d7033939-3ece-4c61-922a-8565b2addfb5)
+![final2](https://drive.google.com/uc?id=13vNSZYS2Q6qJi900tnXlUvLC4GfIcZ8o)
 
 
 
-![contactus](https://github.com/user-attachments/assets/6131503e-2e56-4e9c-9b51-dd1ef6ef2084)
+![contactus](https://drive.google.com/uc?id=102BjIy2A3jA73T1M4yst2c_vkPQAjSRN)
 
 
 
-![login](https://github.com/user-attachments/assets/b371825d-e465-47a2-986c-ab2f7051e898)
+![login](https://drive.google.com/uc?id=1fAvHYcOtG3yBecN1kRyPBNcZM80ckxnJ)
 
 
 
 Generate Page:
 
 
-![generate](https://github.com/user-attachments/assets/7428d83f-fd5e-476f-beb1-942347607adb)
+![generate](https://drive.google.com/uc?id=1GXyLWqdVZtWMj-SRmkIsu9R1vnnB9xKf)
 
 
 
-![gen1](https://github.com/user-attachments/assets/77677f82-3841-497e-92a0-1bf0e6b0f9ef)
+![gen1](https://drive.google.com/uc?id=1FmEJRL5oqagbxsOwWBsCnYW5E8vNoUkX)
 
 
 
-![gen2](https://github.com/user-attachments/assets/3ee0c21c-429e-4a98-9489-3b6b6541e5f4)
+![gen2](https://drive.google.com/uc?id=1qDA-N6NOPWBteAglQ8t1CtlRuexlS8Qd)
 
 
 Community Showcase where users can share their generated images via this application to all users along with prompts they use to generate the image 
-![comm](https://github.com/user-attachments/assets/d32f358d-4398-494f-b88f-d6e36eca753a)
+![comm](https://drive.google.com/uc?id=1TKN5f37ZZxgwn8-YYfX5vbwHJksHJ5vb)
 
 
 
@@ -74,5 +69,7 @@ Community Showcase where users can share their generated images via this applica
 
 
 
-Azure Deployment: https://rahul-ai-image-web-application-amdshzewf6cchwf7.southindia-01.azurewebsites.net/welcome
+Vercel Deployment Link: (Note That: Some Features are unable to update on the vercel free app deployment and MysticAI API calls depends upon its up time, it results in missplaced elements in navbar and issues with google login authentication with google firebase , in college demonstration of our project we have showcase the project in local-host for faster results and have a option to deploy it cloud platform, with all the free resources we try our best to create a good image generation system that is server less, the community page works fine in out website that have some good images for reference)
+
+https://new-final-year.vercel.app/
 
